@@ -15,23 +15,10 @@ I like learning by building. Most of my work is self-taught project work across:
 
 📍 Based in Butwal, Rupandehi, Nepal 🎯 Looking for entry-level engineering roles and higher-study opportunities
 
-</td> <td width="40%" align="center" valign="middle"> <!-- Animated circuit graphic (file: circuit.svg) --> <img src="circuit.svg" width="100%" alt="Animated circuit diagram linking my six focus areas" /> </td> </tr> </table> <!-- ───────────── SKILLS ───────────── --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:F09819&height=70&section=header&text=Skills%20%26%20Tech&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Skills and Tech" /> </div> <div align="center">
-
-<sub>Skill level across all areas: <b>basic → intermediate</b></sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning" /> <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Networking-0288D1?style=for-the-badge" alt="Networking" /> <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Security-D32F2F?style=for-the-badge" alt="Security" /> <br/> <img src="https://img.shields.io/badge/%F0%9F%95%B7%EF%B8%8F%20Web%20Scraping-43A047?style=for-the-badge" alt="Web Scraping" /> <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Data%20Analytics-F2C811?style=for-the-badge&labelColor=F2C811" alt="Data Analytics" /> <img src="https://img.shields.io/badge/%F0%9F%94%8C%20PCB%20Design-00897B?style=for-the-badge" alt="PCB Design" /> </div> <br/>
-Area	What I work with
-🤖 Machine Learning	scikit-learn, Pandas, notebooks (classification, price prediction, recommendation)
-🌐 Networking	OSI & TCP/IP models, router and switch configuration, network setup
-🛡️ Security	SOC analytics with Wazuh, Linux
-🕷️ Web Scraping	Python, Playwright
-📊 Data Analytics	Pandas, SQL, Power BI dashboards
-🔌 PCB Design	Schematic capture, board layout
+</td> <td width="40%" align="center" valign="middle"> <!-- Animated circuit graphic (file: circuit.svg) --> <img src="circuit.svg" width="100%" alt="Animated circuit diagram linking my six focus areas" /> </td> </tr> </table> <!-- ───────────── SKILLS & TECH ───────────── -->
 <div align="center">
-🛠️ Languages & Tools
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </p> <p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright" /> <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh" /> </p> </div> <!-- ───────────── PROJECTS ───────────── --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C6FF,100:0072FF&height=70&section=header&text=Featured%20Projects&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Featured Projects" /> </div> <table> <tr> <td width="33%" valign="top" align="center">
+<img src="skills.svg" width="100%" alt="Skills and Tech: machine learning, networking, security, web scraping, data analytics and PCB design (basic to intermediate). Tools: Python, C++, SQL, JavaScript, HTML, CSS, Linux, scikit-learn, Pandas, Power BI, Playwright, Wazuh." />
+</div> <!-- ───────────── PROJECTS ───────────── --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C6FF,100:0072FF&height=70&section=header&text=Featured%20Projects&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Featured Projects" /> </div> <table> <tr> <td width="33%" valign="top" align="center">
 🤖 Machine Learning
 
 Book-recommendation and car-price-prediction notebooks, plus practice classification sets.
